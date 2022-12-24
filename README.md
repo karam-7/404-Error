@@ -1,5 +1,4 @@
 
-
 <h1 align="center">{404 ERROR}</h1>
 
 <div align="center">
@@ -8,19 +7,20 @@
 
 <div align="center">
   <h3>
-    
+    <a href="https://karam-7.github.io/404-error/">
+      Demo
+    </a>
     <span> | </span>
-    <a href="https://karam-7.github.io/404-Error.github.io/">
+    <a href="https://github.com/karam-7/404-error">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
@@ -28,10 +28,6 @@
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
-
-<!-- OVERVIEW -->
-
-
 
 ### Built With
 
